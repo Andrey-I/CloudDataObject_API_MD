@@ -12,7 +12,7 @@ A _Cloud Data Service_ (CDS) defines the API for one or more server-side resourc
 A CDO provides client access to the data and operations of a single resource. Client code can call methods on a CDO to execute the mapped server-side operations on the backend. The data for these operations is serialized between the Client and the Server. 
 For information on the CDO Catalog file, please refer to the document [Cloud Data Object Catalog Specification](https://github.com/Andrey-I/CloudDataObject_API_WIKI/wiki/Cloud-Data-Object-Catalog-Specification).
 
-![](https://raw.githubusercontent.com/Andrey-I/CloudDataObject_API_WIKI/master/images/img1.png)
+![](images/img1.png)
 
 _The figure above provides an overview of how a CDO accesses a resource which works the same for a given CDO regardless of the type of client or type of backend._
 
