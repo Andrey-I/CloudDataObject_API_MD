@@ -18,7 +18,7 @@ _The figure above provides an overview of how a CDO accesses a resource which wo
 
 
 ## Classes to support the Cloud Data Object
-* [CloudDataRecord](https://github.com/Andrey-I/CloudDataObject_API_WIKI/wiki/Cloud-Data-Object-API-Specification#clouddatarecord-class)
+* [CloudDataRecord](#clouddatarecord-class)
 * CloudDataObject
 * CloudSession
 * request
